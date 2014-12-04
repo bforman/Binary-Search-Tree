@@ -173,16 +173,12 @@ public class BST
     // MENU ITEM #15
     public int findMax()
     {
-        // STUB TO FILL IN: returns zero for now
-        // not recursive
         return 0;
     }
 
     // MENU ITEM #16
     public int secondLargest()
     {
-        // You may make this iterative or recursive
-        // If you make it recursive, then you need to add the method 
         return 0;
     }
 
@@ -198,8 +194,6 @@ public class BST
     // MENU ITEM #18
     public int findZigZagLength()
     {
-        // You may make this iterative or recursive
-        // If you make it recursive, then you need to add the method 
         return 0;
     }
 
