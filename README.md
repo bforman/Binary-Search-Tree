@@ -185,9 +185,6 @@ public class BST
     // MENU ITEM #17
     public boolean remove(int num)
     {
-        // You may make this iterative or recursive
-        // If you make it recursive, then you need to add the method 
-        // Do not forget to update the  treeSize
         return false;
     }
 
